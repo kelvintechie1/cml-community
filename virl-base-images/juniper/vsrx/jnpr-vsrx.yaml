@@ -1,0 +1,8 @@
+id: jnpr-vsrx3
+node_definition_id: jnpr-vsrx3
+description: Juniper vSRX 3.0 - 20.3R1.8
+label: Juniper vSRX
+disk_image: junos-vsrx3-x86-64-20.3R1.8.qcow2
+read_only: false
+disk_subfolder: jnpr-vsrx3
+schema_version: 0.0.1
